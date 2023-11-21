@@ -1,4 +1,4 @@
-#Chatbot with a memorization function
+# Chatbot with a memorization function
 
 This project was developed as a response to a test task for a company. The main goal of the task was to create a bot on any web framework with an emphasis on its memorization capability.
 
@@ -20,5 +20,5 @@ This chatbot has the following features:
 
 To run the program, you will need to run the following command in the console:
 
-## bash
-streamlit run main.py
+```streamlit run main.py```
+
